@@ -1,3 +1,3 @@
 #Streaming-plataform
 
-Streaming platform simulation developed in Java, applying object-oriented programming principles, collections, inheritance, and polymorphism.
+Streaming platform simulation built in Java to demonstrate object-oriented programming concepts, including inheritance, polymorphism, encapsulation, and collection management.
